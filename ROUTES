@@ -1,0 +1,6 @@
+
+Route::post('/practica', 'Controlador12@validar');
+
+Route::get('/practica','Controlador12@practica');
+
+Route::get('/', 'Controlador12@login');
