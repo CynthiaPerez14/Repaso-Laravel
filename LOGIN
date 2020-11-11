@@ -1,0 +1,26 @@
+@extends('layouts.master')
+
+@section('header')
+   <center><h1>Practica Repaso Laravel</h1></center>
+@stop
+
+@section('content') <center>
+  <form action="{{action('Controlador12@validar')}}" method="post">
+  {{csrf_field()}}
+  <label for="user">Usuario:</label>
+  <input type="text" name="user">
+  <br>
+  <label for="pass">Contraseña:</label>
+  <input type="password" name="pass">
+  <br>
+  <label for="busq">Busqueda:</label>
+  <input type="text" name="busq">
+  <br>
+  <input type="submit" value="Enviar">
+  </form>
+  </center>
+@stop 
+
+@section('footer')
+ <h3>Derechos reservados: Cynthia  Rocio  Perez  Silva  5°E</h3>
+@stop 
