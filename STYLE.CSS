@@ -1,0 +1,16 @@
+header  {background-color: rgb(49, 2, 82);
+         color: white;
+        font-family: fantasy;
+        font-size: 40px;
+        }
+
+body { background-color: rgb(152, 214, 255);
+       color: black;
+       font-style: inherit;
+       font-size: 30px;}
+
+footer {background-color: rgb(255, 19, 145);
+        color: rgb(75, 9, 122);
+        font-family: monospace;
+        font-size: 20px;}
+
