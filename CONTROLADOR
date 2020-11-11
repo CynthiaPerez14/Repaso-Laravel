@@ -1,0 +1,20 @@
+public function login(){
+        return view('admon.login');
+    }
+
+    public function validar(Request $request){
+        $user = $request-> input('user');
+        $password = $request-> input('password');
+        $pint = $request-> input('pint');
+
+        if ($user === 'Cynthia'){
+            $url = 'admon.dash';
+        } else {
+            $url = 'admon.login';
+        }
+
+        return view($url, [
+            $user = $request-> input('user')
+        ]);
+
+    }
