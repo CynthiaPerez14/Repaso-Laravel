@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pintores</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<header class= "header">
+<center><h1>⚜ Los 3 pintores mas famosos ⚜</h1></center>
+</header>
+<body class="body">
+    <h3>Leonardo da Vinci</h3>
+    <p>Pintor, inventor, escultor, arquitecto, ingeniero, astrónomo... 
+    Clasificar al italiano Leonardo da Vinci es una sola disciplina es una tarea imposible.
+     Su figura encarna perfectamente el ideal del hombre del Renacimiento, y su expresión derivada 
+     como sinónimo de polímatía, o sabiduría aplicada a diversos campos del arte y de la ciencia.
+      Como inventor dejó trazadas las ideas de lo que luego serían dispositivos y aparatos tan
+       dispares como el paracaídas, el helicóptero y el tanque, aunque el nivel tecnológico de su época hizo
+        imposible que los viera convertidos en realidad. Sin duda, su legado más universal está en el campo 
+        de la pintura. Obras magnas como La última cena o La dama del armiño han quedado relativamente eclipsadas
+         por la dimensión de su cuadro más famoso: la Mona Lisa, o Gioconda, expuesta en el museo del Louvre
+          de París y convertida en un auténtico icono popular. </p>
+
+
+    <h3>Miguel Angel</h3>
+    <p>Michelangelo Buonarroti fue un hombre solitario, iracundo y soberbio, constantemente 
+    desgarrado por sus pasiones y su genio. Dominó las cuatro nobles artes que solicitaron de su talento:
+     la escultura, la pintura, la arquitectura y la poesía, siendo en esto parangonable a otro genio polifacético 
+     de su época, Leonardo da Vinci. Durante su larga vida amasó grandes riquezas, pero era sobrio en extremo,
+      incluso avaro, y jamás disfrutó de sus bienes. Si Hipócrates afirmó que el hombre es todo él enfermedad,
+       Miguel Ángel encarnó su máxima fiel y exageradamente, pues no hubo día que no asegurase padecer una u otra 
+       dolencia.</p>
+    <p>Quizás por ello su existencia fue una continua lucha, un esfuerzo desesperado por no ceder ante los hombres
+     ni ante las circunstancias. Acostumbraba a decir en sus últimos días que para él la vida había sido una batalla
+      constante contra la muerte. Fue una batalla de casi noventa años, una lucha incruenta cuyo resultado no 
+      fueron ruinas y cadáveres, sino algunas de las más bellas y grandiosas obras de arte que la humanidad
+       afortunadamente ha conocido.</p>
+
+   
+   <h3>Artemisia Gentileschi</h3>
+   <p>La mujer que la sufrió se llamaba Artemisia Gentileschi y fue una artista de excepcional talento, como lo
+    demuestra el hecho de que fuera la primera mujer en conseguir entrar en la Academia de Bellas Artes de Florencia,
+     la misma institución por la que pasó Miguel Ángel.</p>
+    <p>Pero Artemisia no sólo fue violada, no sólo tuvo que aguantar ver como su agresor no cumplía ni un solo día 
+    de cárcel y su testimonio sobre la agresión era puesto abiertamente en duda. También padeció la indiferencia y 
+    el rechazo del mundo artístico de su época por el hecho de ser mujer, pasó por la humillación de que muchos de 
+    sus cuadros fueran atribuidos a su padre o a otros artistas varones y durante siglos aguantó el ser considerada
+     como una mera curiosidad, como una rareza tan exótica como menor dentro de la historia del arte.</p>
+
+
+</body>
+</html>
